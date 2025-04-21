@@ -16,6 +16,10 @@ The **Expense Tracker** is a simple web application built using **React**. It al
 - **Styling**: ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 - **Currency**: ![INR](https://img.shields.io/badge/-₹%20Indian%20Rupee-FFC107?style=flat)
 
+## Deployed Site
+
+You can view the live version of the project here: [Expense Tracker - Deployed Site](https://expense-tracker-one-sigma-77.vercel.app/)
+
 ## Made by
 
 **Ishatva Singh Panwar**
